@@ -5,7 +5,7 @@ For education purposes, this repository contains a simple amazon frontend clone.
 - Simple store feed
 - Checkout page
 - Payments via stripe
-- Orders Placed page
+- Placed orders page
 
 ## Important Note
 If you're using this repo simply to grab the final source code, keep in mind that **this is not the development repository**. That repository is private for security reasons (for instance contains the firestore permission.json file). So besides that file and the enviroment variables, this repo contains the entire source code.
