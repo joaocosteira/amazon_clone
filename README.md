@@ -1,5 +1,5 @@
 # Amazon Clone Project
-For education purposes, this repository contains a simple amazon frontend clone. This was inspired by the [following tutorial](https://www.youtube.com/watch?v=DF68MNDxVwU) but contains a few differences including dependencies used and some architecture decisions.
+For education purposes, this repository contains a simple amazon frontend clone. This was inspired by the [following tutorial](https://www.youtube.com/watch?v=DF68MNDxVwU) but this version contains a few differences including dependencies used and some architecture decisions.
 
 ## Functionalities
 - Simple store feed
